@@ -1,4 +1,4 @@
-package testng_demo;
+
 
 import java.time.Duration;
 
@@ -13,8 +13,6 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class DataProviderDemo {
-	
-	
 	
 	
     public static ChromeDriver driver;
