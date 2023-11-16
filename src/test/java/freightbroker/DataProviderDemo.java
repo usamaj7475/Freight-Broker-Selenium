@@ -1,3 +1,4 @@
+package freightbroker;
 
 
 import java.time.Duration;
